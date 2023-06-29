@@ -42,7 +42,9 @@ The Humidity Measurement System with ESP8266 NodeMCU offers several practical us
         - Modify the following variables in the code:
 
             - `auth`: Replace with your Blynk authentication token.
+
             - `ssid`: Enter your Wi-Fi network name (SSID).
+
             - `pass`: Enter your Wi-Fi network password.
 
         - Upload the code to the ESP8266 NodeMCU board.
