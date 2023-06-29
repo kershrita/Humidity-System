@@ -20,12 +20,11 @@ The Humidity Measurement System provides a convenient and reliable solution for 
 
 ## Usage
 
-The biometric attendance system offers several uses and applications across various domains:
+The Humidity Measurement System with ESP8266 NodeMCU offers several practical uses and applications:
 
-- **Residential Security**: Improve home security by allowing access only to authorized individuals, replacing traditional locks with a face recognition system.
-- **Office and Workplace**: Control access to offices, sensitive areas, or restricted zones, ensuring that only authorized personnel can enter.
-- **Institutions and Government Organizations**: Enhance security in educational institutions, research facilities, and government organizations by controlling access to restricted areas and data centers.
-- **Smart Homes Integration**: Integrate the project with a smart home system to remotely monitor and control access to the property, providing convenience and peace of mind.
+- **Indoor Climate Monitoring**: The system allows you to monitor and track humidity levels in indoor spaces such as homes, offices, warehouses, and server rooms. By keeping an eye on the humidity, you can ensure a comfortable and healthy environment for occupants or maintain optimal conditions for equipment and sensitive electronics.
+- **Greenhouse Management**: If you're involved in greenhouse or indoor gardening, this system can be used to monitor the humidity levels critical for plant growth. It enables you to assess and adjust humidity conditions to create an optimal microclimate for plants, improving their health and productivity.
+- **Home Automation**: By integrating the humidity measurement system into a broader home automation setup, you can create smart home applications. For example, you can automatically trigger actions like turning on dehumidifiers, activating ventilation systems, or sending notifications when humidity levels exceed predefined thresholds.
 
 ## Getting Started
 
