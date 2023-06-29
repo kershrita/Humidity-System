@@ -41,9 +41,11 @@ The biometric attendance system offers several uses and applications across vari
 3. Software setup:
         - Open the provided code in the Arduino IDE.
         - Modify the following variables in the code:
+
             - `auth`: Replace with your Blynk authentication token.
             - `ssid`: Enter your Wi-Fi network name (SSID).
             - `pass`: Enter your Wi-Fi network password.
+
         - Upload the code to the ESP8266 NodeMCU board.
 
 4. Running the system:
@@ -63,6 +65,6 @@ The biometric attendance system offers several uses and applications across vari
 
 ![Circuit Diagram](Circuit.jpg)
 
-Contributing
+## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
