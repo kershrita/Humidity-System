@@ -30,32 +30,32 @@ The Humidity Measurement System with ESP8266 NodeMCU offers several practical us
 
 1. Hardware setup:
 
-	- Connect the DHT11 or DHT22 humidity sensor to the digital pin 4 of the ESP8266 NodeMCU board.
-        - Make sure the necessary libraries (DHT.h, ESP8266WiFi.h, BlynkSimpleEsp8266.h, SPI.h) are installed in your Arduino IDE.
+- Connect the DHT11 or DHT22 humidity sensor to the digital pin 4 of the ESP8266 NodeMCU board.
+- Make sure the necessary libraries (DHT.h, ESP8266WiFi.h, BlynkSimpleEsp8266.h, SPI.h) are installed in your Arduino IDE.
 
 2. Blynk setup:
 
-        - Install the Blynk mobile app on your smartphone or tablet.
-        - Create a new Blynk account and project.
-        - Obtain the authentication token for your project by going to Project Settings in the Blynk app.
+- Install the Blynk mobile app on your smartphone or tablet.
+- Create a new Blynk account and project.
+- Obtain the authentication token for your project by going to Project Settings in the Blynk app.
 
 3. Software setup:
 
-        - Open the provided code in the Arduino IDE.
-        - Modify the following variables in the code:
+- Open the provided code in the Arduino IDE.
+- Modify the following variables in the code:
 
-            	- **auth**: Replace with your Blynk authentication token.
-            	- **ssid**: Enter your Wi-Fi network name (SSID).
-            	- **pass**: Enter your Wi-Fi network password.
+	- **auth**: Replace with your Blynk authentication token.
+	- **ssid**: Enter your Wi-Fi network name (SSID).
+	- **pass**: Enter your Wi-Fi network password.
 
-        - Upload the code to the ESP8266 NodeMCU board.
+- Upload the code to the ESP8266 NodeMCU board.
 
 4. Running the system:
 
-        - Power on the ESP8266 NodeMCU board.
-        - Launch the Blynk mobile app and open your project.
-        - The system will start measuring humidity and sending the data to the Blynk cloud platform.
-        - Use the Blynk app to monitor the real-time humidity readings and access historical data.
+- Power on the ESP8266 NodeMCU board.
+- Launch the Blynk mobile app and open your project.
+- The system will start measuring humidity and sending the data to the Blynk cloud platform.
+- Use the Blynk app to monitor the real-time humidity readings and access historical data.
 
 ## Components
 
